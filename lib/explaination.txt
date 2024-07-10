@@ -1,0 +1,28 @@
+view:
+in this we put UI screens like login, signup and profile
+
+view_model:
+in this we define the logic of code (like provider model)
+
+utils(utilities):
+in this we put reuseable things to avoid repeating code
+
+repository:
+in this we make link (backend logic with network) then send
+response to view_model 
+
+resourses:
+we use constants(colors, components, buttons and urls etc),
+
+data; 
+in this we manage network related things. 
+like get, post classes etc.
+and manage network exception like network disconnect wrong url.
+
+model:
+in this we put models of different api's (json to dart model)
+
+
+
+
+
